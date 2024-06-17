@@ -12,7 +12,7 @@ import joblib
 from sklearn.model_selection import ShuffleSplit
 
 # Load the data
-data = pd.read_csv('C:/Users/Mohit/OneDrive/Desktop/geopathic/geopathic_stress_data.csv')
+data = pd.read_csv('C:/Users/Mohit/OneDrive/Desktop/Geopathic-Stress-Line-Detector/geopathic_stress_data.csv')
 
 # Data exploration
 print(data.head())
