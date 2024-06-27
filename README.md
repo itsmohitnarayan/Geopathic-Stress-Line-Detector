@@ -9,9 +9,7 @@ Geopathic stress refers to the effect of the Earth's energies on human health an
 ## 2. Literature Review
 
 ### 2.1 Traditional Detection Methods
-Traditional methods of detecting geopathic stress lines, such as dowsing, are often criticized for their lack of scientific rigor and consistency. These methods rely heavily on the subjective judgment of practitioners, making it difficult to achieve reproduc
-
-ible results.
+Traditional methods of detecting geopathic stress lines, such as dowsing, are often criticized for their lack of scientific rigor and consistency. These methods rely heavily on the subjective judgment of practitioners, making it difficult to achieve reproducible results.
 
 ### 2.2 Machine Learning in Geospatial Analysis
 Machine learning has been increasingly applied in geospatial analysis, offering new ways to interpret and predict spatial data. Techniques such as RandomForest, Support Vector Machines (SVM), and Neural Networks have shown promise in various applications, from environmental monitoring to urban planning.
