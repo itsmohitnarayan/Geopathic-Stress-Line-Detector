@@ -124,10 +124,9 @@ The results section includes detailed analysis and visualization of the model's 
          1.0       1.00      0.98      0.99        58
 
     accuracy                           0.99       101
-   macro avg       0.99      0.99      0.99       101
-weighted avg       0.99      0.99      0.99       101
-  ```
-```
+    macro avg       0.99      0.99      0.99       101
+    weighted avg       0.99      0.99      0.99       101
+
 ### 6.2 Cross-Validation
 Cross-validation was used to evaluate the model's performance more robustly. The cross-validation scores were [0.96428571], with a mean score of 0.9642857142857143.
 
